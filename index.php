@@ -15,11 +15,16 @@
     $f3->set('DEBUG', 3);
     
    //Define a default route
-   $f3->route('GET /', function()
+   $f3->route('GET /', function($f3)
     {
         $view = new View;
-        echo $view->render
-        ('pages/home.html');
+        $f3->set('navbar','pages/navbar.html'); // provide nav bar
+        
+        // give the content to template
+        $f3->set('carousel', 'pages/carousel.html'); // give homepage the navbar html
+        $f3->set('pageData', 'pages/home.html'); // put home in the template
+        
+        echo Template::instance()->render('pages/template.html');
     });
    
     //Run fat free MVC Framework
