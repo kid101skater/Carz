@@ -1,15 +1,19 @@
 {
-    "name": "tina/hello",
+    "name": "Carz",
     "authors": [
                 {
                     "name": "Kevin Locke",
                     "email": "klocke@mail.greenriver.edu"
+            },
+            {
+                "name" : "Sonie Moon",
+                "email": "smoon3@mail.grenriver.edu"
             }
     ],
-    "require": {
-    "bcosca/fatfree-core": "dev-master"
+    "require":{
+        "bcosca/fatfree-core":"dev-master"
     },
         "autoload": {
-        "classmap": ["classes/"]
+          "classmap": ["classes/"]
     }
 }

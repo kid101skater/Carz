@@ -49,3 +49,6 @@
 [30-May-2017 17:16:23 America/Chicago] HTTP 404 (GET /Brz.jpg)
 [30-May-2017 17:16:23 America/Chicago] [IT328/Carz/vendor/bcosca/fatfree-core/base.php:1645] Base->error()
 [30-May-2017 17:16:23 America/Chicago] [IT328/Carz/index.php:31] Base->run()
+[09-Jun-2017 23:20:56 America/Chicago] PHP Warning:  include(/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php): failed to open stream: No such file or directory in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:20:56 America/Chicago] PHP Warning:  include(): Failed opening '/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:20:56 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
