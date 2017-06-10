@@ -1,0 +1,1 @@
+<?php echo $this->render($carousel,NULL,get_defined_vars(),0); ?>

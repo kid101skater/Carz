@@ -52,3 +52,38 @@
 [09-Jun-2017 23:20:56 America/Chicago] PHP Warning:  include(/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php): failed to open stream: No such file or directory in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
 [09-Jun-2017 23:20:56 America/Chicago] PHP Warning:  include(): Failed opening '/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
 [09-Jun-2017 23:20:56 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:24:17 America/Chicago] PHP Warning:  include(/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php): failed to open stream: No such file or directory in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:24:17 America/Chicago] PHP Warning:  include(): Failed opening '/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:24:17 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:24:34 America/Chicago] PHP Warning:  include(/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php): failed to open stream: No such file or directory in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:24:34 America/Chicago] PHP Warning:  include(): Failed opening '/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:24:34 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:24:35 America/Chicago] PHP Warning:  include(/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php): failed to open stream: No such file or directory in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:24:35 America/Chicago] PHP Warning:  include(): Failed opening '/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:24:35 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:24:36 America/Chicago] PHP Warning:  include(/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php): failed to open stream: No such file or directory in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:24:36 America/Chicago] PHP Warning:  include(): Failed opening '/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:24:36 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:24:37 America/Chicago] PHP Warning:  include(/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php): failed to open stream: No such file or directory in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:24:37 America/Chicago] PHP Warning:  include(): Failed opening '/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:24:37 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:24:38 America/Chicago] PHP Warning:  include(/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php): failed to open stream: No such file or directory in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:24:38 America/Chicago] PHP Warning:  include(): Failed opening '/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:24:38 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:24:38 America/Chicago] PHP Warning:  include(/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php): failed to open stream: No such file or directory in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:24:38 America/Chicago] PHP Warning:  include(): Failed opening '/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:24:38 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:24:40 America/Chicago] PHP Warning:  include(/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php): failed to open stream: No such file or directory in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:24:40 America/Chicago] PHP Warning:  include(): Failed opening '/home/smoon/public_html/328/Carz/vendor/bcosca/fatfree-core/base.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/smoon/public_html/328/Carz/vendor/composer/ClassLoader.php on line 444
+[09-Jun-2017 23:24:40 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:25:30 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:25:32 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:26:43 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:26:48 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:28:36 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:29:45 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:29:47 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:30:31 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:31:16 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 18
+[09-Jun-2017 23:39:58 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 17
+[09-Jun-2017 23:42:33 America/Chicago] PHP Fatal error:  Class 'Base' not found in /home/smoon/public_html/328/Carz/index.php on line 17

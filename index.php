@@ -1,6 +1,6 @@
 <?php
 
-    // Kevin Locke
+    // Kevin Locke, Sonie Moon 
     // IT328
     // Carz Website - Final Project
     
@@ -11,11 +11,12 @@
 
     //Require the autoload file
     require_once('vendor/autoload.php');
-
     session_start();
 
     //Create an instance of the Base class
     $f3 = Base::instance();
+    
+    $userDb = new UserDb(); // instantiate new db class 
     
     $f3->set('DEBUG', 3);
     
